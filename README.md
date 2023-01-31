@@ -1,4 +1,19 @@
 # mlp_regression_air_quality
+
+# Task 
+Considerar:
+
+* Diferentes topologias (>=5 topologias, variar número de
+camadas
+
+* Usar o algoritmo original SGD (não usar algoritmos otimizados,
+e.g. ADAM)
+* Avaliar o impacto do uso do Momentum
+* Avaliar o impacto do uso da regularização (i.e. L2)
+* Ilustrar graficamente a evolução do treinamento (treino/validação).
+
+# Introduction
+
 In  this project, we have used a data set with measurements of an Air Quality Chemical Multisensor Device to predict the CO level in the air 1 hour in advance.
 
 Description of the dataset (from https://archive.ics.uci.edu/ml/datasets/air+quality)
